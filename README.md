@@ -10,7 +10,7 @@ python main.py
 ##  Estructura del Proyecto
 
 ```bash
-pandas_lab_clean/
+pandas_lab_clean/            # Se basa en principios de arquitetura limpia (caracteristicas)
 ├── data/                    # Contiene archivo ventas.csv
 ├── features/                # Cada feature implementa un grupo de ejercicios
 │   ├── series/              # Series de Pandas
